@@ -13,8 +13,11 @@ So worked on real life data science project in which had to predict the property
 
 Tool Used:
 1.Python:Programming language
-2.Pandas:Data Clening
+
+2.Pandas:Data Cleaning
+
 3.Matplotlib:Visualization
+
 4.Sklearn:Model Building
 
 # Workflow of the project:
